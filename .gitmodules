@@ -1,0 +1,9 @@
+[submodule "Kha"]
+	path = Kha
+	url = https://github.com/KTXSoftware/Kha
+[submodule "Libraries/haxeui-core"]
+	path = Libraries/haxeui-core
+	url = https://github.com/haxeui/haxeui-core.git
+[submodule "Libraries/haxeui-kha"]
+	path = Libraries/haxeui-kha
+	url = https://github.com/haxeui/haxeui-kha.git

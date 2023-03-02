@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<module preload="all">
+    <resources>
+        <resource path="custom" />
+    </resources>
+
+    <components>
+        <component package="custom" />
+    </components>
+</module>
