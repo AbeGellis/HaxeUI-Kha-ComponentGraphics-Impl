@@ -1,4 +1,4 @@
-package ;
+package views;
 
 import haxe.ui.containers.VBox;
 import haxe.ui.events.MouseEvent;

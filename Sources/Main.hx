@@ -54,7 +54,7 @@ class Main {
 				haxe.ui.Toolkit.init();
 
                 final screen = haxe.ui.core.Screen.instance;
-                final ui = new CanvasView();
+                final ui = new views.MainView();
 
                 screen.addComponent(ui);
 
